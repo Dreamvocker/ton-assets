@@ -1,0 +1,10 @@
+name: Mythical
+description: "A mythical currency that mysteriously appeared in the vastness of the Genesis world"
+image: "https://cache.tonapi.io/imgproxy/ehQQfsiyb-shVwOW5o70uqq9fT-CC9I94Dfyqnw8RGg/rs:fill:200:200:1/g:no/aHR0cHM6Ly9pLmliYi5jby9jVGZQM3FxLzI1Ni5wbmc.webp"
+address: "0:b5cff4f66c25a355dca769d9ed392f319f2f441b9b402c973bf8c245ad3406f3"
+symbol: MYTH
+max_supply: 100000000
+social:
+  - "https://t.me/mythical_nft"
+  - "https://t.me/mythical_nft_chat"
+  - "https://t.me/mythical_coin"
